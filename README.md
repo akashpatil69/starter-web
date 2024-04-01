@@ -13,3 +13,7 @@ Copyright notice
 ## How to contribute
 
 Please fork this repository and then do magic
+
+## Hope
+
+Hope is a good thing my friend
