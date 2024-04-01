@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Akash -- akashpatil -- asotakash
 
 # THANKS
 
