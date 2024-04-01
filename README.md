@@ -16,4 +16,4 @@ Please fork this repository and then do magic
 
 ## Hope
 
-Hope is a good thing my friend
+Hope is a good thing my friend.It can lead a man to pursue dangerous expeditions
